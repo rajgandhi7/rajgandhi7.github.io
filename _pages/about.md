@@ -29,7 +29,7 @@ latest_posts:
 
 Hello, I am Raj, a final-year Ph.D. candidate in the Faculty of Mathematics at the Technion - Israel Institute of Technology, Israel, under the joint supervision of Professor Alexander Oron and Professor Alexander Nepomnyashchy.  I expect to submit my Ph.D. dissertation on the Instabilities in nanofluid layers by February 2026. 
 
-My research interests include theoretical and numerical investigation of the interdisciplinary problems in fluid mechanics, interfacial instabilities, thin film hydrodynamics, nonlinear stability, and hydrodynamic stability in complex liquids.
+My research interests include theoretical and numerical investigation of the interdisciplinary problems in fluid mechanics, interfacial instabilities, thin film hydrodynamics, nonlinear stability, and hydrodynamic stability in complex liquids. 
 
 I am always excited to collaborate on some of the unsolved problems in fluid mechanics.
 
