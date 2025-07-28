@@ -28,6 +28,8 @@ latest_posts:
 
 Hello, I am Raj, a final-year Ph.D. candidate in the Faculty of Mathematics at the Technion - Israel Institute of Technology, Israel, under the joint supervision of [Professor Alexander Oron](https://meeng.technion.ac.il/en/member/alexander-oron/) and [Professor Alexander Nepomnyashchy](https://math-faculty.net.technion.ac.il/nepomnyashchy/).  I expect to submit my Ph.D. dissertation on the Instabilities in nanofluid layers by February 2026. 
 
+My Ph.D. research focuses on developing a mathematical model for thermosolutal instabilities in a nanofluid layer, taking into account nanoparticle concentration-dependent thermophysical properties and the role of colloidal particle interactions with the liquid-gas interface. We utilize the numerical capabilities and the asymptotic method to solve the hydrodynamic stability problem.
+
 My research interests include theoretical and numerical investigation of the interdisciplinary problems in fluid mechanics, interfacial instabilities, thin film hydrodynamics, nonlinear stability, and hydrodynamic stability in complex liquids. 
 
 I am always excited to collaborate on some of the unsolved problems in fluid mechanics.
