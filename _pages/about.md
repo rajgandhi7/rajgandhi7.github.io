@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Ph.D. candidate @ Technion - IIT. Hydrodynamic stability. Applied mathematics 
 
