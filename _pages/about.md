@@ -21,9 +21,9 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  enabled: false
+  scrollable: false # adds a vertical scroll bar if there are more than 3 new posts items
+  limit:  # leave blank to include all the blog posts
 ---
 
 Hello, I am Raj, a final-year Ph.D. candidate in the Faculty of Mathematics at the Technion - Israel Institute of Technology, Israel, under the joint supervision of [Professor Alexander Oron](https://meeng.technion.ac.il/en/member/alexander-oron/) and [Professor Alexander Nepomnyashchy](https://math-faculty.net.technion.ac.il/nepomnyashchy/).  I expect to submit my Ph.D. dissertation on the Instabilities in nanofluid layers by February 2026. 
