@@ -32,3 +32,13 @@
 "planck":
   - firstname: ["Max"]
     url: https://en.wikipedia.org/wiki/Max_Planck
+
+
+"Oron":
+  - firstname: ["Alexander", "A.", "Alex"]
+    url: https://scholar.google.com/citations?hl=en&user=_U_qTooAAAAJ&view_op=list_works&sortby=pubdate
+
+
+"Nepomnyashchy":
+  - firstname: ["Alexander", "A.","A. A."]
+    url: https://www.webofscience.com/wos/author/record/45057414
