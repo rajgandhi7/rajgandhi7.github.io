@@ -7,7 +7,7 @@ first_name: Raj
 middle_name:
 last_name: Gandhi
 contact_note: >
-            You can reach out to me via <a href = "mailto: raj.gandhi@campus.technion.ac.il">email</a> or <b href = "https://il.linkedin.com/in/raj-gandhi-6449361a1?original_referer=https%3A%2F%2Fwww.google.com%2F">LinkedIn</b>.
+            You can reach out to me via <a href = "mailto: raj.gandhi@campus.technion.ac.il">email</a>.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
