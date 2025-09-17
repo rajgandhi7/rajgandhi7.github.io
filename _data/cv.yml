@@ -2,11 +2,11 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: Raj Gandhi
+    - name: Current Position
+      value: Ph.D. candidate @ Technion - IIT
+    - name: Research Summary 
+      value: My research focuses on the development of mathematical models of the surface tension-driven instabilities in complex fluids (Colloidal dispersion). We reveal different underlying instability mechanisms via the solution of the linear eigenvalue problem. We also investigate the formation of patterns using the direct numerical simulations. Our investigation helps to elucidate the complex nature of hydrodynamic instability in colloidal suspensions.
 
 - title: Education
   type: time_table
