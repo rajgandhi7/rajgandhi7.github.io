@@ -62,9 +62,7 @@
       items:
         - Colloidal dispersion, Viscoelastic, Magnetic Liquids.
      - title: Interfacial instabilities, thin film hydrodynamics, asymptotic methods.
-      items:
-        - Stability of foam
-
+      
     
 - title: Fellowships
   type: nested_list
