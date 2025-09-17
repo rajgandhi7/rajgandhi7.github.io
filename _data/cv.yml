@@ -29,4 +29,43 @@
       year: 2015 - 2019
       description:
         -  CGPA - 9.01/10
+
         
+- title: Experience
+  type: time_table
+  contents:
+    - title: Graduate research assistant, MSCA research fellow @ nanoPaInt
+      institution: Technion - Israel Institute of Technology, Haifa, Israel
+      year: 2022 - 2026
+      description:
+        - Developing a mathematical model for thermosolutal instabilities in a nanofluid layer, taking
+          into account the nanoparticle concentration-dependent thermophysical properties and interfacial kinetics
+        - Investigating long–wave monotonic and oscillatory thermosolutal instabilities 
+        - Investigating the nonlinear stability and pattern-forming instabilities in a nanofluid layer
+    - title: Visiting scholar, MSCA research fellow secondment
+      institution: Technische Universität Darmstadt, Institute of Technical Thermodynamics, Darmstadt, Germany
+      year: October 2024
+    - title: Research Intern
+      institution: Laboratory of Fluid Mechanics of Lille, Lille, France
+      year: April 2021 – September 2021
+    - title: Research Intern
+      institution: Laboratoire de Tribologie et Dynamique des Systèmes, Lyon, France
+      year: May 2020 – July 2020
+    
+- title: Research Interests
+  type: nested_list
+  contents:
+    - title: Theoretical and numerical investigation of the interdisciplinary problems in fluid mechanics.
+    - title: Hydrodynamic stability in complex fluids.
+      items:
+        - Colloidal dispersion, Viscoelastic, Magnetic Liquids.
+     - title: Interfacial instabilities, thin film hydrodynamics, asymptotic methods.
+      
+    
+- title: Fellowships
+  type: nested_list
+  contents:
+    - title: Technion Departmental Scholarship Portions (July 2025 – December 2025 )
+    - title: Marie Skłodowska – Curie Actions, Early stage researcher fellowship (July 2022 – July 2025)
+    - title: École Centrale de Lyon partial tuition fees scholarship (2019 – 2021)
+    - title: Mukhyamantri Yuva Swavalamban Yojana, 50% tuition fees scholarship (2015 – 2019)
