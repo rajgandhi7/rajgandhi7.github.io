@@ -110,6 +110,8 @@ zotero_username: # your zotero username
 wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 
 
+contact_note: >
+  You can contact me via <a href = "mailto: raj.gandhi@campus.technion.ac.il">email</a> or [LinkedIn](https://il.linkedin.com/in/raj-gandhi-6449361a1).
 
 
 
