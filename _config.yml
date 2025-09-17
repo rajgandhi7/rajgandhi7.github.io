@@ -7,7 +7,7 @@ first_name: Raj
 middle_name:
 last_name: Gandhi
 contact_note: >
-            You can reach out to me via <a href = "mailto: raj.gandhi@campus.technion.ac.il">email</a> or <a href = "https://il.linkedin.com/in/raj-gandhi-6449361a1?original_referer=https%3A%2F%2Fwww.google.com%2F">LinkedIn</a>.
+            You can reach out to me via <a href = "mailto: raj.gandhi@campus.technion.ac.il">email</a> or <b href = "https://il.linkedin.com/in/raj-gandhi-6449361a1?original_referer=https%3A%2F%2Fwww.google.com%2F">LinkedIn</b>.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
@@ -109,9 +109,6 @@ discord_id: # your discord id (18-digit unique numerical identifier)
 zotero_username: # your zotero username
 wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 
-
-contact_note: >
-  You can contact me via <a href = "mailto: raj.gandhi@campus.technion.ac.il">email</a> or [LinkedIn](https://il.linkedin.com/in/raj-gandhi-6449361a1).
 
 
 
